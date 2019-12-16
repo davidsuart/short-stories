@@ -1,2 +1,3 @@
 # short-stories
-🗞️📚 A collection of &lt;things> that were useful at some time. Caveat emptor.
+
+🗞️ A collection of _&lt;things&gt;_ that were useful at some point in time. **Caveat emptor**.

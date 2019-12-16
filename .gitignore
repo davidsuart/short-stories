@@ -1,0 +1,7 @@
+# custom file and folder patterns used for testing/development
+**/.legacy/*
+*.legacy
+**/.debug/*
+*.debug
+**/.todo/*
+*.todo
